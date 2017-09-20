@@ -1,0 +1,96 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+#wrapper {
+    width: 970px;
+    height: 700px;
+    background-color: #313EA0;
+    margin: 0px auto;
+}
+
+#headertext {
+    display: inline;
+    position: relative;
+    top: -65px;
+    left: 30px;
+    color: #95D5DA;
+}
+
+#header {
+    height: 100px;
+    width: 900px;
+    border-radius: 8px;
+    margin: 15px 15px;
+    padding: 2px;
+    position: relative;
+    top: 20px;
+    padding-right: 30px;
+    background-color: #E26060;
+}
+
+#navigation {
+    height: 300px;
+    width: 190px;
+    position: relative;
+    top: -12px;
+    margin: 20px 20px;
+    left: -5px;
+    border-radius: 8px;
+    background-color: #37C5B9;
+}
+
+#navlist {
+    position: relative;
+    top: -300px;
+    left: 30px;
+    font-size: 15px;
+    color: #09638D
+}
+
+#main_content {
+    height: 400px;
+    width: 700px;
+    position: relative;
+    bottom: 540px;
+    left: 200px;
+    margin: 20px 20px;
+    padding: 0px;
+    border-radius: 8px;
+    font-size: 16px;
+    background-color: #101447;
+    padding-right: 28px;
+}
+
+#jsbasicsparagraph {
+    color: #8CB6B9;
+    position: relative;
+    left: 20px;
+}
+
+#advertisement {
+    height: 100px;
+    width: 760px;
+    position: relative;
+    bottom: -40px;
+    display: inline-block;
+    left: -200px;
+    padding-right: 170px;
+    border-radius: 8px;
+    background-color: #8393A1;
+}
+
+#adtext {
+    color: #D3D8DD;
+    position: relative;
+    display: inline-block;
+    bottom: -35px;
+    left: 20px;
+}
