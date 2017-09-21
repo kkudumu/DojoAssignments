@@ -1,0 +1,40 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#square {
+    width: 140px;
+    height: 140px;
+    background: #079743;
+}
+
+#circle {
+    width: 140px;
+    height: 140px;
+    background: #079743;
+    border-radius: 100px;
+}
+
+#uptriangle {
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 200px solid #079743;
+}
+
+#pacman {
+    width: 0px;
+    height: 0px;
+    border-right: 60px solid transparent;
+    border-top: 60px solid #EEF107;
+    border-left: 60px solid #EEF107;
+    border-bottom: 60px solid #EEF107;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
